@@ -1,3 +1,4 @@
 ﻿Line for teminal!
+﻿Line from git
 Git is awesome.
 Third line
